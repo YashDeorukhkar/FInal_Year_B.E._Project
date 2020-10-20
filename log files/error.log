@@ -1,0 +1,776 @@
+[Sun Mar 12 20:37:01.622838 2017] [mpm_event:notice] [pid 8405:tid 139732799367040] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Sun Mar 12 20:37:01.623055 2017] [core:notice] [pid 8405:tid 139732799367040] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 20:37:42.835485 2017] [mpm_event:notice] [pid 8405:tid 139732799367040] AH00491: caught SIGTERM, shutting down
+[Sun Mar 12 20:38:14.057121 2017] [mpm_event:notice] [pid 8605:tid 140611650316160] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Mar 12 20:38:14.057368 2017] [core:notice] [pid 8605:tid 140611650316160] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 20:55:35.061407 2017] [mpm_event:notice] [pid 8605:tid 140611650316160] AH00491: caught SIGTERM, shutting down
+[Sun Mar 12 21:00:16.331416 2017] [mpm_event:notice] [pid 1606:tid 139826748282752] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Mar 12 21:00:16.339965 2017] [core:notice] [pid 1606:tid 139826748282752] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 21:11:15.576170 2017] [mpm_event:notice] [pid 1606:tid 139826748282752] AH00491: caught SIGTERM, shutting down
+[Sun Mar 12 21:11:16.692575 2017] [mpm_event:notice] [pid 1981:tid 140636041561984] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Mar 12 21:11:16.692843 2017] [core:notice] [pid 1981:tid 140636041561984] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 21:30:59.289652 2017] [mpm_event:notice] [pid 1981:tid 140636041561984] AH00491: caught SIGTERM, shutting down
+[Sun Mar 12 22:38:50.276865 2017] [mpm_event:notice] [pid 1573:tid 139761181820800] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Mar 12 22:38:50.291620 2017] [core:notice] [pid 1573:tid 139761181820800] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 22:45:01.876147 2017] [mpm_event:notice] [pid 1577:tid 140606591469440] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Mar 12 22:45:01.895494 2017] [core:notice] [pid 1577:tid 140606591469440] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 01:33:23.652439 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 01:33:23.678187 2017] [core:notice] [pid 1923:tid 139736640505728] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 01:38:32.959267 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Mar 13 01:38:40.938924 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 01:38:40.939032 2017] [core:notice] [pid 1923:tid 139736640505728] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 01:39:26.562440 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Mar 13 01:39:29.664678 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 01:39:29.664762 2017] [core:notice] [pid 1923:tid 139736640505728] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 01:46:07.905181 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Mar 13 01:46:08.422981 2017] [mpm_event:notice] [pid 1923:tid 139736640505728] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 01:46:08.423102 2017] [core:notice] [pid 1923:tid 139736640505728] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 20:16:38.207519 2017] [:error] [pid 2879:tid 139736536717056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Mar 12 20:16:50.584700 2017] [:error] [pid 2878:tid 139736519931648] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Mar 12 20:17:00.678513 2017] [:error] [pid 2877:tid 139736536717056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 02:05:32.503812 2017] [mpm_event:notice] [pid 1922:tid 139835535316864] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 02:05:32.520640 2017] [core:notice] [pid 1922:tid 139835535316864] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Mar 12 20:37:27.575041 2017] [:error] [pid 1927:tid 139835431728896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Mar 12 20:37:27.577154 2017] [:error] [pid 1925:tid 139835431728896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Mar 12 20:37:44.659234 2017] [:error] [pid 1926:tid 139835431728896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Mar 12 20:39:43.950321 2017] [:error] [pid 1925:tid 139835356194560] Login successful for user "admin".
+[Sun Mar 12 20:45:01.262892 2017] [:error] [pid 1927:tid 139835364587264] Logging out user "admin".
+[Sun Mar 12 20:45:04.227927 2017] [:error] [pid 1927:tid 139835364587264] Deleted token gAAAAABYxbIPrCVXc5fJTAPOBSfOq5dimXS40UwkhmWmXrsoFGXZ71AF_utmqdzarqsVawZgIO3HeNWixargr2MK4krlvZhmchbaZ4apJycu9p0SUm9pAO21W06ELxWrlPKlRn9TDkDOPgHITBo0rhFfH7YE02HhRSsb0dl-u8HM-m0QUhPYttdqCWyrHDd1taf4ePTIZVqn
+[Mon Mar 13 02:15:36.241554 2017] [mpm_event:notice] [pid 1922:tid 139835535316864] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 12:05:31.213510 2017] [mpm_event:notice] [pid 1949:tid 140576905557888] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 12:05:31.289642 2017] [core:notice] [pid 1949:tid 140576905557888] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 12:36:17.772034 2017] [mpm_event:notice] [pid 1918:tid 139745179281280] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 12:36:17.878975 2017] [core:notice] [pid 1918:tid 139745179281280] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 12:39:36.100370 2017] [mpm_event:notice] [pid 1918:tid 139745179281280] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 12:45:50.928068 2017] [mpm_event:notice] [pid 1901:tid 140519862323072] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 12:45:50.999468 2017] [core:notice] [pid 1901:tid 140519862323072] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 13:11:59.164786 2017] [mpm_event:notice] [pid 2445:tid 139711964071808] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 13:11:59.191880 2017] [core:notice] [pid 2445:tid 139711964071808] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 13:12:02.251792 2017] [mpm_event:notice] [pid 2445:tid 139711964071808] AH00493: SIGUSR1 received.  Doing graceful restart
+[Mon Mar 13 13:12:02.780361 2017] [mpm_event:notice] [pid 2445:tid 139711964071808] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 13:12:02.780396 2017] [core:notice] [pid 2445:tid 139711964071808] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 07:46:12.782159 2017] [:error] [pid 2629:tid 139711711590144] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 07:46:38.804127 2017] [:error] [pid 2628:tid 139711778731776] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 07:47:34.035120 2017] [:error] [pid 2627:tid 139711778731776] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 07:49:02.667905 2017] [:error] [pid 2629:tid 139711703197440] Login successful for user "admin".
+[Mon Mar 13 07:52:25.639738 2017] [:error] [pid 2628:tid 139711719982848] Creating group with name "federated_users"
+[Mon Mar 13 07:56:33.252357 2017] [:error] [pid 2628:tid 139711719982848] Logging out user "admin".
+[Mon Mar 13 07:56:34.752971 2017] [:error] [pid 2628:tid 139711719982848] Deleted token gAAAAABYxk7ujJ7ano5h4KMKkypX86CuULQ-AdwIrkKBKCulkmiuxZ1BCWnHJbd1_Zs5d_M5MUvgIpON2aC0VA3Dl8OIsmwid2z2c6YhKeY-2Ro4imXsBcZ2MhpbDGgzU4m0aI4-2cQxp7mMya1O1gPOqs_F2Ozp4V-n7TXbijLWGK_O1QjPxdej2JR4XLNI4VCUgzOAdKdp
+[Mon Mar 13 13:35:25.215294 2017] [core:warn] [pid 2445:tid 139711964071808] AH00045: child process 2640 still did not exit, sending a SIGTERM
+[Mon Mar 13 13:35:25.360511 2017] [core:warn] [pid 2445:tid 139711964071808] AH00045: child process 2641 still did not exit, sending a SIGTERM
+[Mon Mar 13 13:35:27.363636 2017] [core:warn] [pid 2445:tid 139711964071808] AH00045: child process 2640 still did not exit, sending a SIGTERM
+[Mon Mar 13 13:35:27.363712 2017] [core:warn] [pid 2445:tid 139711964071808] AH00045: child process 2641 still did not exit, sending a SIGTERM
+[Mon Mar 13 13:35:28.400541 2017] [mpm_event:notice] [pid 2445:tid 139711964071808] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 13:35:33.725159 2017] [mpm_event:notice] [pid 3252:tid 140551993603968] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 13:35:33.725388 2017] [core:notice] [pid 3252:tid 140551993603968] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 08:05:57.313060 2017] [:error] [pid 3255:tid 140551800071936] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:06:12.577184 2017] [:error] [pid 3257:tid 140551808464640] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:06:32.564911 2017] [:error] [pid 3256:tid 140551808464640] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:08:42.682082 2017] [:error] [pid 3256:tid 140551808464640] Unable to establish connection to https://accounts.google.com:5000/v3/auth/tokens
+[Mon Mar 13 08:08:42.682632 2017] [:error] [pid 3256:tid 140551808464640] Login failed for user "admin".
+[Mon Mar 13 08:11:49.306812 2017] [:error] [pid 3256:tid 140551732930304] Unable to establish connection to https://accounts.google.com:5000/v3/auth/tokens
+[Mon Mar 13 08:11:49.307508 2017] [:error] [pid 3256:tid 140551732930304] Login failed for user "admin".
+[Mon Mar 13 13:43:39.386011 2017] [mpm_event:notice] [pid 3252:tid 140551993603968] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 13:43:44.268110 2017] [mpm_event:notice] [pid 3575:tid 140033299777408] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 13:43:44.268438 2017] [core:notice] [pid 3575:tid 140033299777408] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 08:13:57.344266 2017] [:error] [pid 3580:tid 140033114638080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:14:07.170516 2017] [:error] [pid 3577:tid 140033106245376] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:14:58.168002 2017] [:error] [pid 3579:tid 140033106245376] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 14:07:34.400756 2017] [mpm_event:notice] [pid 3575:tid 140033299777408] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 14:07:39.221864 2017] [mpm_event:notice] [pid 4187:tid 139842082830208] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 14:07:39.222202 2017] [core:notice] [pid 4187:tid 139842082830208] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 08:38:13.112416 2017] [:error] [pid 4190:tid 139841897690880] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:38:24.418905 2017] [:error] [pid 4191:tid 139841897690880] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:38:37.184129 2017] [:error] [pid 4192:tid 139841897690880] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 14:10:25.578009 2017] [mpm_event:notice] [pid 4187:tid 139842082830208] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 14:10:28.272651 2017] [mpm_event:notice] [pid 4442:tid 139660588754816] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 14:10:28.281512 2017] [core:notice] [pid 4442:tid 139660588754816] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 08:40:47.697522 2017] [:error] [pid 4445:tid 139660403615488] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:40:58.813924 2017] [:error] [pid 4446:tid 139660403615488] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:41:11.035909 2017] [:error] [pid 4447:tid 139660403615488] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 08:42:33.042295 2017] [:error] [pid 4446:tid 139660328081152] Login failed for user "admin".
+[Mon Mar 13 08:42:41.623904 2017] [:error] [pid 4445:tid 139660403615488] Login failed for user "admin".
+[Mon Mar 13 08:42:52.969370 2017] [:error] [pid 4447:tid 139660403615488] Login failed for user "demo".
+[Mon Mar 13 14:13:48.137715 2017] [mpm_event:notice] [pid 4442:tid 139660588754816] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 15:09:57.377664 2017] [mpm_event:notice] [pid 1911:tid 140520523564928] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 15:09:57.389010 2017] [core:notice] [pid 1911:tid 140520523564928] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 15:18:16.789899 2017] [mpm_event:notice] [pid 1911:tid 140520523564928] AH00491: caught SIGTERM, shutting down
+[Mon Mar 13 15:18:18.431732 2017] [mpm_event:notice] [pid 2346:tid 140074129729408] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Mon Mar 13 15:18:18.432064 2017] [core:notice] [pid 2346:tid 140074129729408] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 13 09:49:51.356022 2017] [:error] [pid 2348:tid 140073944590080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 09:50:19.063182 2017] [:error] [pid 2350:tid 140073944590080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 09:50:30.494579 2017] [:error] [pid 2351:tid 140073944590080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Mon Mar 13 15:21:32.726504 2017] [mpm_event:notice] [pid 2346:tid 140074129729408] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:13:02.747159 2017] [mpm_event:notice] [pid 1899:tid 139810226321280] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:13:02.769040 2017] [core:notice] [pid 1899:tid 139810226321280] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 14:16:55.056839 2017] [mpm_event:notice] [pid 1899:tid 139810226321280] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:17:30.328188 2017] [mpm_event:notice] [pid 2312:tid 139762155947904] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:17:30.328484 2017] [core:notice] [pid 2312:tid 139762155947904] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 08:49:00.803426 2017] [:error] [pid 2314:tid 139761962415872] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:49:12.790185 2017] [:error] [pid 2316:tid 139761962415872] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:49:25.403536 2017] [:error] [pid 2315:tid 139761970808576] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:19:40.615573 2017] [mpm_event:notice] [pid 2312:tid 139762155947904] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:19:45.408314 2017] [mpm_event:notice] [pid 2565:tid 139836508886912] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:19:45.408437 2017] [core:notice] [pid 2565:tid 139836508886912] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 08:49:59.527719 2017] [:error] [pid 2568:tid 139836315354880] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:50:10.271998 2017] [:error] [pid 2569:tid 139836323747584] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:50:26.304726 2017] [:error] [pid 2570:tid 139836323747584] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:22:21.254243 2017] [mpm_event:notice] [pid 2565:tid 139836508886912] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:22:23.999182 2017] [mpm_event:notice] [pid 2818:tid 140579937507200] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:22:23.999321 2017] [core:notice] [pid 2818:tid 140579937507200] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 08:52:41.143207 2017] [:error] [pid 2821:tid 140579752367872] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:52:53.931222 2017] [:error] [pid 2822:tid 140579752367872] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:53:04.109085 2017] [:error] [pid 2823:tid 140579752367872] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:26:09.036275 2017] [mpm_event:notice] [pid 2818:tid 140579937507200] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:26:11.868794 2017] [mpm_event:notice] [pid 3085:tid 139965059712896] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:26:11.869083 2017] [core:notice] [pid 3085:tid 139965059712896] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 08:56:34.151666 2017] [:error] [pid 3088:tid 139964874573568] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:56:38.150878 2017] [:error] [pid 3090:tid 139964874573568] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:56:48.520328 2017] [:error] [pid 3089:tid 139964874573568] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:28:37.621473 2017] [mpm_event:notice] [pid 3085:tid 139965059712896] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:28:40.394746 2017] [mpm_event:notice] [pid 3336:tid 139955441919872] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:28:40.395101 2017] [core:notice] [pid 3336:tid 139955441919872] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 08:59:20.838235 2017] [:error] [pid 3340:tid 139955256780544] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 08:59:30.715379 2017] [:error] [pid 3339:tid 139955256780544] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:00:22.076356 2017] [:error] [pid 3341:tid 139955239995136] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:35:47.837918 2017] [mpm_event:notice] [pid 3336:tid 139955441919872] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:35:50.824351 2017] [mpm_event:notice] [pid 3652:tid 139820273518464] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:35:50.824477 2017] [core:notice] [pid 3652:tid 139820273518464] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 14:36:28.935111 2017] [mpm_event:notice] [pid 3652:tid 139820273518464] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:36:31.658195 2017] [mpm_event:notice] [pid 3858:tid 140548285265792] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:36:31.658289 2017] [core:notice] [pid 3858:tid 140548285265792] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 09:06:51.818821 2017] [:error] [pid 3859:tid 140548100126464] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:06:57.489892 2017] [:error] [pid 3863:tid 140548100126464] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:07:09.406359 2017] [:error] [pid 3862:tid 140548100126464] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:43:29.974452 2017] [mpm_event:notice] [pid 3858:tid 140548285265792] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:43:33.153683 2017] [mpm_event:notice] [pid 4164:tid 140570238519168] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:43:33.153813 2017] [core:notice] [pid 4164:tid 140570238519168] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 09:13:46.372730 2017] [:error] [pid 4167:tid 140570053379840] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:13:56.764585 2017] [:error] [pid 4168:tid 140570053379840] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:14:08.690676 2017] [:error] [pid 4169:tid 140570053379840] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:45:47.479725 2017] [mpm_event:notice] [pid 4164:tid 140570238519168] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:45:52.920574 2017] [mpm_event:notice] [pid 4422:tid 140443629090688] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:45:52.920686 2017] [core:notice] [pid 4422:tid 140443629090688] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 09:16:02.158979 2017] [:error] [pid 4426:tid 140443443951360] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:16:11.976320 2017] [:error] [pid 4427:tid 140443443951360] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:16:40.619597 2017] [:error] [pid 4425:tid 140443443951360] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:51:03.968338 2017] [mpm_event:notice] [pid 4422:tid 140443629090688] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:51:06.700071 2017] [mpm_event:notice] [pid 4707:tid 140127650523008] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:51:06.700184 2017] [core:notice] [pid 4707:tid 140127650523008] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 14:52:21.111563 2017] [mpm_event:notice] [pid 4707:tid 140127650523008] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:52:23.034504 2017] [mpm_event:notice] [pid 4917:tid 139889953937280] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:52:23.034643 2017] [core:notice] [pid 4917:tid 139889953937280] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 09:22:41.393602 2017] [:error] [pid 4919:tid 139889768797952] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:22:45.693077 2017] [:error] [pid 4922:tid 139889768797952] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:22:57.961317 2017] [:error] [pid 4921:tid 139889726834432] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 14:54:16.822583 2017] [mpm_event:notice] [pid 4917:tid 139889953937280] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:54:19.891024 2017] [mpm_event:notice] [pid 5162:tid 140680753649536] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:54:19.891119 2017] [core:notice] [pid 5162:tid 140680753649536] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 14:54:24.212233 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218] mod_wsgi (pid=5167): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:54:24.212348 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218] mod_wsgi (pid=5167): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:54:24.212414 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218] Traceback (most recent call last):
+[Sat Mar 25 14:54:24.212457 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:54:24.212618 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     application = get_wsgi_application()
+[Sat Mar 25 14:54:24.212645 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:54:24.261635 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     django.setup()
+[Sat Mar 25 14:54:24.261706 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:54:24.271118 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:54:24.271190 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:54:24.272264 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     self._setup(name)
+[Sat Mar 25 14:54:24.272317 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:54:24.272370 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:54:24.272387 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:54:24.272414 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:54:24.272432 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:54:24.285996 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     __import__(name)
+[Sat Mar 25 14:54:24.286088 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:54:24.299792 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:54:24.299964 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:54:24.300693 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:54:24.300809 2017] [:error] [pid 5167:tid 140680560117504] [remote 192.168.1.3:22218] TypeError: not all arguments converted during string formatting
+[Sat Mar 25 14:54:28.734763 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218] mod_wsgi (pid=5164): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:54:28.734877 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218] mod_wsgi (pid=5164): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:54:28.734940 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218] Traceback (most recent call last):
+[Sat Mar 25 14:54:28.734982 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:54:28.735132 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     application = get_wsgi_application()
+[Sat Mar 25 14:54:28.735160 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:54:28.735255 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     django.setup()
+[Sat Mar 25 14:54:28.735283 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:54:28.735367 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:54:28.735394 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:54:28.735574 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     self._setup(name)
+[Sat Mar 25 14:54:28.736084 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:54:28.736160 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:54:28.736180 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:54:28.736209 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:54:28.736229 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:54:28.736352 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     __import__(name)
+[Sat Mar 25 14:54:28.736378 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:54:28.736758 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:54:28.736807 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:54:28.737325 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:54:28.737386 2017] [:error] [pid 5164:tid 140680568510208] [remote 192.168.1.3:22218] TypeError: not all arguments converted during string formatting
+[Sat Mar 25 14:54:32.043857 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658] mod_wsgi (pid=5163): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:54:32.043967 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658] mod_wsgi (pid=5163): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:54:32.044026 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658] Traceback (most recent call last):
+[Sat Mar 25 14:54:32.044067 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:54:32.044213 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     application = get_wsgi_application()
+[Sat Mar 25 14:54:32.044240 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:54:32.044329 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     django.setup()
+[Sat Mar 25 14:54:32.044358 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:54:32.044438 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:54:32.044464 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:54:32.044737 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     self._setup(name)
+[Sat Mar 25 14:54:32.044779 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:54:32.044819 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:54:32.044836 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:54:32.044862 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:54:32.044882 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:54:32.044974 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     __import__(name)
+[Sat Mar 25 14:54:32.044996 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:54:32.045305 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:54:32.045348 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:54:32.045961 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:54:32.046025 2017] [:error] [pid 5163:tid 140680543332096] [remote 192.168.1.3:19658] TypeError: not all arguments converted during string formatting
+[Sat Mar 25 14:54:34.504052 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306] mod_wsgi (pid=5167): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:54:34.504160 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306] mod_wsgi (pid=5167): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:54:34.504213 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306] Traceback (most recent call last):
+[Sat Mar 25 14:54:34.504253 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:54:34.504382 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     application = get_wsgi_application()
+[Sat Mar 25 14:54:34.504415 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:54:34.504450 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     django.setup()
+[Sat Mar 25 14:54:34.504467 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:54:34.504492 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:54:34.504507 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:54:34.504533 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     self._setup(name)
+[Sat Mar 25 14:54:34.504548 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:54:34.504571 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:54:34.504586 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:54:34.504609 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:54:34.504623 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:54:34.504647 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     __import__(name)
+[Sat Mar 25 14:54:34.504663 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:54:34.504691 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:54:34.504708 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:54:34.504743 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:54:34.504838 2017] [:error] [pid 5167:tid 140680492975872] [remote 192.168.1.3:15306] TypeError: not all arguments converted during string formatting
+[Sat Mar 25 14:56:18.174082 2017] [mpm_event:notice] [pid 5162:tid 140680753649536] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:56:19.922298 2017] [mpm_event:notice] [pid 5395:tid 140231149889408] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:56:19.922417 2017] [core:notice] [pid 5395:tid 140231149889408] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 14:56:24.296950 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603] mod_wsgi (pid=5399): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:56:24.297096 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603] mod_wsgi (pid=5399): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:56:24.297184 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603] Traceback (most recent call last):
+[Sat Mar 25 14:56:24.297251 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:56:24.297552 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     application = get_wsgi_application()
+[Sat Mar 25 14:56:24.297608 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:56:24.297769 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     django.setup()
+[Sat Mar 25 14:56:24.297822 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:56:24.298154 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:56:24.298227 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:56:24.298606 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     self._setup(name)
+[Sat Mar 25 14:56:24.298672 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:56:24.298746 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:56:24.298785 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:56:24.298821 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:56:24.298846 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:56:24.299152 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     __import__(name)
+[Sat Mar 25 14:56:24.299213 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:56:24.302584 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:56:24.302835 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:56:24.303792 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:56:24.303899 2017] [:error] [pid 5399:tid 140230964750080] [remote 192.168.1.3:56603] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:56:40.992172 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043] mod_wsgi (pid=5398): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:56:40.993597 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043] mod_wsgi (pid=5398): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:56:40.993743 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043] Traceback (most recent call last):
+[Sat Mar 25 14:56:40.993834 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:56:40.994083 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     application = get_wsgi_application()
+[Sat Mar 25 14:56:40.998348 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:56:40.998791 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     django.setup()
+[Sat Mar 25 14:56:40.998850 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:56:40.998984 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:56:40.999026 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:56:41.000650 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     self._setup(name)
+[Sat Mar 25 14:56:41.000734 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:56:41.000791 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:56:41.000810 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:56:41.000841 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:56:41.000871 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:56:41.002652 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     __import__(name)
+[Sat Mar 25 14:56:41.002756 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:56:41.003441 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:56:41.003535 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:56:41.004925 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:56:41.005603 2017] [:error] [pid 5398:tid 140230964750080] [remote 192.168.1.3:54043] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:56:42.617664 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603] mod_wsgi (pid=5400): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:56:42.617777 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603] mod_wsgi (pid=5400): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:56:42.617858 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603] Traceback (most recent call last):
+[Sat Mar 25 14:56:42.617916 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:56:42.618249 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     application = get_wsgi_application()
+[Sat Mar 25 14:56:42.618298 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:56:42.618409 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     django.setup()
+[Sat Mar 25 14:56:42.618445 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:56:42.618637 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:56:42.618677 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:56:42.618871 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     self._setup(name)
+[Sat Mar 25 14:56:42.618909 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:56:42.618952 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:56:42.618972 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:56:42.619000 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:56:42.619023 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:56:42.619121 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     __import__(name)
+[Sat Mar 25 14:56:42.619154 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:56:42.619526 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:56:42.619579 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:56:42.620104 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9:5000/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:56:42.620166 2017] [:error] [pid 5400:tid 140230956357376] [remote 192.168.1.3:56603] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:57:12.387827 2017] [mpm_event:notice] [pid 5395:tid 140231149889408] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:57:14.127580 2017] [mpm_event:notice] [pid 5613:tid 140330765973376] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:57:14.127716 2017] [core:notice] [pid 5613:tid 140330765973376] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 14:57:20.207242 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005] mod_wsgi (pid=5617): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:57:20.207362 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005] mod_wsgi (pid=5617): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:57:20.207423 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005] Traceback (most recent call last):
+[Sat Mar 25 14:57:20.207472 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:57:20.207606 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     application = get_wsgi_application()
+[Sat Mar 25 14:57:20.207633 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:57:20.207714 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     django.setup()
+[Sat Mar 25 14:57:20.207741 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:57:20.207814 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:57:20.207838 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:57:20.207998 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     self._setup(name)
+[Sat Mar 25 14:57:20.208029 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:57:20.208062 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:57:20.208077 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:57:20.208099 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:57:20.208117 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:57:20.208301 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     __import__(name)
+[Sat Mar 25 14:57:20.208343 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:57:20.208626 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:57:20.208665 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:57:20.209180 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:57:20.209240 2017] [:error] [pid 5617:tid 140330580834048] [remote 192.168.1.3:29005] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:57:25.680548 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701] mod_wsgi (pid=5616): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:57:25.680704 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701] mod_wsgi (pid=5616): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:57:25.680820 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701] Traceback (most recent call last):
+[Sat Mar 25 14:57:25.680910 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:57:25.681588 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     application = get_wsgi_application()
+[Sat Mar 25 14:57:25.681671 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:57:25.681863 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     django.setup()
+[Sat Mar 25 14:57:25.681924 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:57:25.686273 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:57:25.686383 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:57:25.686788 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     self._setup(name)
+[Sat Mar 25 14:57:25.686851 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:57:25.686915 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:57:25.687024 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:57:25.687107 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:57:25.687144 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:57:25.687506 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     __import__(name)
+[Sat Mar 25 14:57:25.687570 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:57:25.688640 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:57:25.688715 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:57:25.689735 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:57:25.689847 2017] [:error] [pid 5616:tid 140330580834048] [remote 192.168.1.3:26701] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:57:28.473109 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005] mod_wsgi (pid=5618): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:57:28.473215 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005] mod_wsgi (pid=5618): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:57:28.473276 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005] Traceback (most recent call last):
+[Sat Mar 25 14:57:28.473329 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:57:28.474844 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     application = get_wsgi_application()
+[Sat Mar 25 14:57:28.474904 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:57:28.475044 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     django.setup()
+[Sat Mar 25 14:57:28.475083 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:57:28.475190 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:57:28.475224 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:57:28.475534 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     self._setup(name)
+[Sat Mar 25 14:57:28.475598 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:57:28.475662 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:57:28.475687 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:57:28.475724 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:57:28.475754 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:57:28.475893 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     __import__(name)
+[Sat Mar 25 14:57:28.476887 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:57:28.478053 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:57:28.478147 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:57:28.480770 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:57:28.480876 2017] [:error] [pid 5618:tid 140330580834048] [remote 192.168.1.3:29005] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:57:29.807485 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605] mod_wsgi (pid=5617): Target WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi' cannot be loaded as Python module.
+[Sat Mar 25 14:57:29.807591 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605] mod_wsgi (pid=5617): Exception occurred processing WSGI script '/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi'.
+[Sat Mar 25 14:57:29.807656 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605] Traceback (most recent call last):
+[Sat Mar 25 14:57:29.807706 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/django.wsgi", line 16, in <module>
+[Sat Mar 25 14:57:29.807783 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     application = get_wsgi_application()
+[Sat Mar 25 14:57:29.808034 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/lib/python2.7/dist-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Sat Mar 25 14:57:29.808115 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     django.setup()
+[Sat Mar 25 14:57:29.808139 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/lib/python2.7/dist-packages/django/__init__.py", line 17, in setup
+[Sat Mar 25 14:57:29.808173 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Sat Mar 25 14:57:29.808193 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+[Sat Mar 25 14:57:29.808226 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     self._setup(name)
+[Sat Mar 25 14:57:29.808248 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+[Sat Mar 25 14:57:29.808284 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     self._wrapped = Settings(settings_module)
+[Sat Mar 25 14:57:29.808306 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+[Sat Mar 25 14:57:29.808335 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Sat Mar 25 14:57:29.808352 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Sat Mar 25 14:57:29.808381 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     __import__(name)
+[Sat Mar 25 14:57:29.808398 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/settings.py", line 294, in <module>
+[Sat Mar 25 14:57:29.808433 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     from local.local_settings import *  # noqa
+[Sat Mar 25 14:57:29.808453 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]   File "/usr/share/openstack-dashboard/openstack_dashboard/wsgi/../../openstack_dashboard/local/local_settings.py", line 166, in <module>
+[Sat Mar 25 14:57:29.808492 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605]     OPENSTACK_KEYSTONE_URL = "http://192.168.1.9/horizon/v3" % OPENSTACK_HOST
+[Sat Mar 25 14:57:29.808639 2017] [:error] [pid 5617:tid 140330513692416] [remote 192.168.1.3:22605] NameError: name 'OPENSTACK_HOST' is not defined
+[Sat Mar 25 14:58:45.022594 2017] [mpm_event:notice] [pid 5613:tid 140330765973376] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 14:58:46.724059 2017] [mpm_event:notice] [pid 5842:tid 140432577873792] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 14:58:46.724303 2017] [core:notice] [pid 5842:tid 140432577873792] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 09:28:56.601483 2017] [:error] [pid 5844:tid 140432392734464] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:29:07.547780 2017] [:error] [pid 5847:tid 140432392734464] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:29:24.523299 2017] [:error] [pid 5845:tid 140432392734464] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 15:07:30.227945 2017] [mpm_event:notice] [pid 5842:tid 140432577873792] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 15:07:35.222131 2017] [mpm_event:notice] [pid 6198:tid 139660611180416] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 15:07:35.266815 2017] [core:notice] [pid 6198:tid 139660611180416] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 09:37:58.508286 2017] [:error] [pid 6203:tid 139660426041088] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:37:58.928802 2017] [:error] [pid 6202:tid 139660426041088] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 09:38:17.858976 2017] [:error] [pid 6201:tid 139660426041088] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+                                                                                                                                                                                                                                                                                                                                                                                                                                           [Sat Mar 25 16:24:42.261427 2017] [mpm_event:notice] [pid 1987:tid 140231103731584] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 16:24:42.304278 2017] [core:notice] [pid 1987:tid 140231103731584] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 16:50:55.369649 2017] [mpm_event:notice] [pid 1987:tid 140231103731584] AH00491: caught SIGTERM, shutting down
+[Sat Mar 25 16:50:57.161119 2017] [mpm_event:notice] [pid 2632:tid 139849627637632] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Mar 25 16:50:57.161244 2017] [core:notice] [pid 2632:tid 139849627637632] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Mar 25 11:21:34.422598 2017] [:error] [pid 2637:tid 139849442498304] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 11:21:34.425000 2017] [:error] [pid 2636:tid 139849442498304] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 11:21:54.366821 2017] [:error] [pid 2635:tid 139849442498304] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Mar 25 12:30:06.085024 2017] [:error] [pid 2637:tid 139849442498304] Login successful for user "admin".
+[Sat Mar 25 13:19:38.685270 2017] [:error] [pid 2635:tid 139849383749376] Logging out user "admin".
+[Sat Mar 25 13:19:42.028335 2017] [:error] [pid 2635:tid 139849383749376] Deleted token gAAAAABY1mLO6q0khnKi_BYJP8N_jo4ulSkpfEV4eM4OdRpT7z--aS46NFq08SPOZEit4JQq_C4SYEfmHNMkKaVGprWF-xJXRn-jzgek2lMezIPzxMCqdtVwxD6FFRM4VEFa5bPkSGyFxIT3j5DAiCPKE2JZNP2Q0mNpsh8Y8marL8tH9zEjkWtFk3lUd5AUB_IHErBjfouh
+[Wed Mar 29 11:04:45.976646 2017] [mpm_event:notice] [pid 1930:tid 140563058165632] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 11:04:45.998832 2017] [core:notice] [pid 1930:tid 140563058165632] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 11:48:11.869324 2017] [mpm_event:notice] [pid 1930:tid 140563058165632] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 12:08:53.218303 2017] [mpm_event:notice] [pid 1880:tid 140269872891776] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 12:08:53.235867 2017] [core:notice] [pid 1880:tid 140269872891776] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 12:44:18.755832 2017] [mpm_event:notice] [pid 1880:tid 140269872891776] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 12:44:23.160770 2017] [mpm_event:notice] [pid 2648:tid 139904392333184] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 12:44:23.160861 2017] [core:notice] [pid 2648:tid 139904392333184] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 12:47:23.556103 2017] [mpm_event:notice] [pid 2648:tid 139904392333184] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 12:51:54.490762 2017] [mpm_event:notice] [pid 1753:tid 140692839577472] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 12:51:54.728893 2017] [core:notice] [pid 1753:tid 140692839577472] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 12:53:20.242065 2017] [mpm_event:notice] [pid 1753:tid 140692839577472] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 19:45:10.773223 2017] [mpm_event:notice] [pid 1916:tid 140005732480896] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 19:45:10.814114 2017] [core:notice] [pid 1916:tid 140005732480896] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 19:48:39.432811 2017] [mpm_event:notice] [pid 1916:tid 140005732480896] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 19:48:40.828669 2017] [mpm_event:notice] [pid 2278:tid 139795245451136] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 19:48:40.828776 2017] [core:notice] [pid 2278:tid 139795245451136] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 19:59:35.856154 2017] [mpm_event:notice] [pid 2278:tid 139795245451136] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 19:59:37.386336 2017] [mpm_event:notice] [pid 2609:tid 140294622431104] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 19:59:37.386558 2017] [core:notice] [pid 2609:tid 140294622431104] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:07:34.738432 2017] [mpm_event:notice] [pid 2609:tid 140294622431104] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 20:07:36.385669 2017] [mpm_event:notice] [pid 2930:tid 139694368319360] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:07:36.386070 2017] [core:notice] [pid 2930:tid 139694368319360] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:09:17.760563 2017] [mpm_event:notice] [pid 2930:tid 139694368319360] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Mar 29 20:09:18.614939 2017] [mpm_event:notice] [pid 2930:tid 139694368319360] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:09:18.615014 2017] [core:notice] [pid 2930:tid 139694368319360] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:09:21.454512 2017] [mpm_event:notice] [pid 2930:tid 139694368319360] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 20:09:23.144798 2017] [mpm_event:notice] [pid 3322:tid 139670539487104] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:09:23.145133 2017] [core:notice] [pid 3322:tid 139670539487104] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:10:56.256751 2017] [mpm_event:notice] [pid 3322:tid 139670539487104] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 20:11:00.926104 2017] [mpm_event:notice] [pid 3541:tid 140193653499776] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:11:00.926502 2017] [core:notice] [pid 3541:tid 140193653499776] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:12:18.674238 2017] [mpm_event:notice] [pid 3541:tid 140193653499776] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 20:16:24.690078 2017] [mpm_event:notice] [pid 1890:tid 140263803193216] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:16:24.716046 2017] [core:notice] [pid 1890:tid 140263803193216] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:20:54.443791 2017] [mpm_event:notice] [pid 1890:tid 140263803193216] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 20:30:22.115742 2017] [mpm_event:notice] [pid 1894:tid 139960707245952] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:30:22.167151 2017] [core:notice] [pid 1894:tid 139960707245952] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:53:52.890096 2017] [mpm_event:notice] [pid 1913:tid 140533246252928] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 20:53:52.896594 2017] [core:notice] [pid 1913:tid 140533246252928] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 20:58:42.195289 2017] [mpm_event:notice] [pid 1913:tid 140533246252928] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 21:02:57.315487 2017] [mpm_event:notice] [pid 1875:tid 140123529516928] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 21:02:57.346160 2017] [core:notice] [pid 1875:tid 140123529516928] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 21:05:46.787567 2017] [mpm_event:notice] [pid 1875:tid 140123529516928] AH00491: caught SIGTERM, shutting down
+[Wed Mar 29 21:27:06.178237 2017] [mpm_event:notice] [pid 1901:tid 139736294541184] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Wed Mar 29 21:27:06.359441 2017] [core:notice] [pid 1901:tid 139736294541184] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 29 21:47:29.642901 2017] [mpm_event:notice] [pid 1901:tid 139736294541184] AH00491: caught SIGTERM, shutting down
+[Thu Mar 30 20:03:11.631153 2017] [mpm_event:notice] [pid 1954:tid 139630220314496] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Mar 30 20:03:11.726864 2017] [core:notice] [pid 1954:tid 139630220314496] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 30 20:06:33.546397 2017] [mpm_event:notice] [pid 1954:tid 139630220314496] AH00491: caught SIGTERM, shutting down
+[Thu Mar 30 22:30:07.970289 2017] [mpm_event:notice] [pid 1897:tid 139850390538112] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Mar 30 22:30:08.011672 2017] [core:notice] [pid 1897:tid 139850390538112] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 30 22:32:03.515032 2017] [mpm_event:notice] [pid 1897:tid 139850390538112] AH00491: caught SIGTERM, shutting down
+[Thu Mar 30 23:01:49.533551 2017] [mpm_event:notice] [pid 1946:tid 139676381546368] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Mar 30 23:01:49.564293 2017] [core:notice] [pid 1946:tid 139676381546368] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 30 23:05:22.107083 2017] [mpm_event:notice] [pid 1946:tid 139676381546368] AH00491: caught SIGTERM, shutting down
+[Thu Mar 30 23:13:46.934575 2017] [mpm_event:notice] [pid 1945:tid 139728446613376] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Mar 30 23:13:46.956562 2017] [core:notice] [pid 1945:tid 139728446613376] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 30 18:02:17.332321 2017] [:error] [pid 1950:tid 139728253081344] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Thu Mar 30 18:02:17.334350 2017] [:error] [pid 1949:tid 139728261474048] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Thu Mar 30 18:04:43.053386 2017] [:error] [pid 1948:tid 139728261474048] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Thu Mar 30 23:35:29.197470 2017] [mpm_event:notice] [pid 1945:tid 139728446613376] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 20:35:59.619496 2017] [mpm_event:notice] [pid 1989:tid 139858151978880] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 20:35:59.844365 2017] [core:notice] [pid 1989:tid 139858151978880] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 15:08:17.918812 2017] [:error] [pid 1994:tid 139857966839552] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:08:17.920975 2017] [:error] [pid 1992:tid 139857966839552] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:09:14.376535 2017] [:error] [pid 1993:tid 139857966839552] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 20:41:29.394733 2017] [mpm_event:notice] [pid 1989:tid 139858151978880] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 20:41:34.208634 2017] [mpm_event:notice] [pid 2418:tid 140062746519424] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 20:41:34.208937 2017] [core:notice] [pid 2418:tid 140062746519424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 15:11:49.322777 2017] [:error] [pid 2423:tid 140062561380096] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:12:00.135391 2017] [:error] [pid 2420:tid 140062552987392] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:12:12.819462 2017] [:error] [pid 2424:tid 140062561380096] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 20:46:10.568371 2017] [mpm_event:notice] [pid 2418:tid 140062746519424] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 20:46:15.111632 2017] [mpm_event:notice] [pid 2709:tid 139701124601728] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 20:46:15.111796 2017] [core:notice] [pid 2709:tid 139701124601728] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 20:53:33.107053 2017] [mpm_event:notice] [pid 2709:tid 139701124601728] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 20:53:35.279366 2017] [mpm_event:notice] [pid 2991:tid 140378382923648] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 20:53:35.279627 2017] [core:notice] [pid 2991:tid 140378382923648] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 15:24:01.888932 2017] [:error] [pid 2994:tid 140378197784320] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:24:01.951842 2017] [:error] [pid 2996:tid 140378197784320] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:24:15.254838 2017] [:error] [pid 2995:tid 140378189391616] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 20:58:02.048182 2017] [mpm_event:notice] [pid 2991:tid 140378382923648] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 20:58:06.396400 2017] [mpm_event:notice] [pid 3287:tid 139684283881344] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 20:58:06.396835 2017] [core:notice] [pid 3287:tid 139684283881344] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 15:29:11.296555 2017] [:error] [pid 3291:tid 139684098742016] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:29:11.301620 2017] [:error] [pid 3289:tid 139684090349312] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 15:29:29.351331 2017] [:error] [pid 3292:tid 139684098742016] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 21:44:46.597495 2017] [mpm_event:notice] [pid 3287:tid 139684283881344] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 21:44:51.285434 2017] [mpm_event:notice] [pid 4126:tid 140009672439680] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 21:44:51.285723 2017] [core:notice] [pid 4126:tid 140009672439680] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 16:15:47.147106 2017] [:error] [pid 4130:tid 140009487300352] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 16:15:47.150190 2017] [:error] [pid 4131:tid 140009487300352] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 16:16:01.268945 2017] [:error] [pid 4129:tid 140009487300352] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 21:47:39.382827 2017] [mpm_event:notice] [pid 4126:tid 140009672439680] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 22:03:48.736043 2017] [mpm_event:notice] [pid 1905:tid 140455557736320] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 22:03:48.772025 2017] [core:notice] [pid 1905:tid 140455557736320] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 16:36:21.161769 2017] [:error] [pid 1910:tid 140455372596992] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 16:37:14.605653 2017] [:error] [pid 1908:tid 140455372596992] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 16:37:20.179420 2017] [:error] [pid 1909:tid 140455372596992] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 22:15:59.955857 2017] [mpm_event:notice] [pid 1905:tid 140455557736320] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 22:16:02.746439 2017] [mpm_event:notice] [pid 2403:tid 139808335886208] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 22:16:02.766918 2017] [core:notice] [pid 2403:tid 139808335886208] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 16:46:22.373666 2017] [:error] [pid 2406:tid 139808150746880] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 16:46:22.463607 2017] [:error] [pid 2407:tid 139808108783360] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 16:46:33.376419 2017] [:error] [pid 2408:tid 139808075212544] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 22:33:21.911329 2017] [mpm_event:notice] [pid 2403:tid 139808335886208] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 22:36:33.725661 2017] [mpm_event:notice] [pid 1813:tid 140301140375424] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 22:36:33.865737 2017] [core:notice] [pid 1813:tid 140301140375424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 17:07:49.272493 2017] [:error] [pid 1818:tid 140300955236096] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 17:08:05.616927 2017] [:error] [pid 1817:tid 140300955236096] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 17:08:19.171090 2017] [:error] [pid 1816:tid 140300955236096] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 22:43:44.902004 2017] [mpm_event:notice] [pid 1813:tid 140301140375424] AH00491: caught SIGTERM, shutting down
+[Fri Mar 31 22:43:49.756357 2017] [mpm_event:notice] [pid 2343:tid 140526355457920] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Mar 31 22:43:49.761734 2017] [core:notice] [pid 2343:tid 140526355457920] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 31 17:20:35.853631 2017] [:error] [pid 2345:tid 140526170318592] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 17:20:45.546607 2017] [:error] [pid 2348:tid 140526170318592] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 17:20:59.735465 2017] [:error] [pid 2347:tid 140526170318592] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Fri Mar 31 23:02:26.974504 2017] [mpm_event:notice] [pid 2343:tid 140526355457920] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 11:58:43.860554 2017] [mpm_event:notice] [pid 1819:tid 140645005760384] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 11:58:44.007654 2017] [core:notice] [pid 1819:tid 140645005760384] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 06:34:54.007998 2017] [:error] [pid 1824:tid 140644820621056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 06:35:10.982288 2017] [:error] [pid 1822:tid 140644820621056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 06:35:25.398989 2017] [:error] [pid 1823:tid 140644820621056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 12:27:21.204982 2017] [mpm_event:notice] [pid 1819:tid 140645005760384] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 12:27:26.500587 2017] [mpm_event:notice] [pid 2667:tid 140434797246336] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 12:27:26.561137 2017] [core:notice] [pid 2667:tid 140434797246336] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 07:03:40.159267 2017] [:error] [pid 2672:tid 140434586928896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 12:34:07.767826 2017] [core:warn] [pid 2667:tid 140434797246336] AH00045: child process 2683 still did not exit, sending a SIGTERM
+[Sun Apr 02 12:34:07.768307 2017] [core:warn] [pid 2667:tid 140434797246336] AH00045: child process 2684 still did not exit, sending a SIGTERM
+[Sun Apr 02 07:04:08.343247 2017] [:error] [pid 2670:tid 140434544965376] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:04:09.267798 2017] [:error] [pid 2671:tid 140434578536192] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 12:34:09.788914 2017] [core:warn] [pid 2667:tid 140434797246336] AH00045: child process 2683 still did not exit, sending a SIGTERM
+[Sun Apr 02 12:34:09.789034 2017] [core:warn] [pid 2667:tid 140434797246336] AH00045: child process 2684 still did not exit, sending a SIGTERM
+[Sun Apr 02 12:34:11.791428 2017] [core:warn] [pid 2667:tid 140434797246336] AH00045: child process 2683 still did not exit, sending a SIGTERM
+[Sun Apr 02 12:34:11.791555 2017] [core:warn] [pid 2667:tid 140434797246336] AH00045: child process 2684 still did not exit, sending a SIGTERM
+[Sun Apr 02 12:34:13.793348 2017] [core:error] [pid 2667:tid 140434797246336] AH00046: child process 2683 still did not exit, sending a SIGKILL
+[Sun Apr 02 12:34:13.793486 2017] [core:error] [pid 2667:tid 140434797246336] AH00046: child process 2684 still did not exit, sending a SIGKILL
+[Sun Apr 02 12:34:14.794763 2017] [mpm_event:notice] [pid 2667:tid 140434797246336] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 12:34:19.522931 2017] [mpm_event:notice] [pid 2991:tid 140347605206912] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 12:34:19.523384 2017] [core:notice] [pid 2991:tid 140347605206912] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 07:04:36.663250 2017] [:error] [pid 2996:tid 140347420067584] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:04:52.151804 2017] [:error] [pid 2995:tid 140347420067584] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:05:07.228372 2017] [:error] [pid 2994:tid 140347420067584] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 12:41:30.021539 2017] [mpm_event:notice] [pid 2991:tid 140347605206912] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 12:41:35.869266 2017] [mpm_event:notice] [pid 3334:tid 140245595654016] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 12:41:35.869609 2017] [core:notice] [pid 3334:tid 140245595654016] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 12:41:45.296332 2017] [mpm_event:notice] [pid 3334:tid 140245595654016] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 12:41:50.857731 2017] [mpm_event:notice] [pid 3536:tid 140379298043776] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 12:41:50.858862 2017] [core:notice] [pid 3536:tid 140379298043776] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 07:12:27.584490 2017] [:error] [pid 3539:tid 140379112904448] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:12:38.598985 2017] [:error] [pid 3540:tid 140379112904448] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:12:50.247303 2017] [:error] [pid 3541:tid 140379112904448] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 12:44:18.792540 2017] [mpm_event:notice] [pid 3536:tid 140379298043776] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 12:44:24.409155 2017] [mpm_event:notice] [pid 3816:tid 140138553657216] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 12:44:24.409566 2017] [core:notice] [pid 3816:tid 140138553657216] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 07:14:40.525531 2017] [:error] [pid 3819:tid 140138368517888] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:14:56.400706 2017] [:error] [pid 3821:tid 140138368517888] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:15:07.908489 2017] [:error] [pid 3820:tid 140138309768960] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 13:05:10.252870 2017] [mpm_event:notice] [pid 3816:tid 140138553657216] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 13:05:14.464413 2017] [mpm_event:notice] [pid 4309:tid 140407498049408] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 13:05:14.464601 2017] [core:notice] [pid 4309:tid 140407498049408] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 07:35:44.588873 2017] [:error] [pid 4311:tid 140407312910080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:35:55.496754 2017] [:error] [pid 4312:tid 140407312910080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:36:05.106555 2017] [:error] [pid 4313:tid 140407312910080] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:37:44.600192 2017] [:error] [pid 4311:tid 140407312910080] Unable to establish connection to http://dbit-openstack.com:5000/v3/auth/tokens
+[Sun Apr 02 07:37:44.600732 2017] [:error] [pid 4311:tid 140407312910080] Login failed for user "admin".
+[Sun Apr 02 13:08:36.182403 2017] [mpm_event:notice] [pid 4309:tid 140407498049408] AH00491: caught SIGTERM, shutting down
+[Sun Apr 02 13:08:40.888974 2017] [mpm_event:notice] [pid 4580:tid 140015425312640] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 13:08:40.905577 2017] [core:notice] [pid 4580:tid 140015425312640] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 07:38:51.159661 2017] [:error] [pid 4583:tid 140015240173312] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:39:02.933299 2017] [:error] [pid 4584:tid 140015240173312] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:39:14.761635 2017] [:error] [pid 4585:tid 140015198209792] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sun Apr 02 07:40:47.113173 2017] [:error] [pid 4583:tid 140015240173312] Login successful for user "admin".
+[Sun Apr 02 07:41:32.271263 2017] [:error] [pid 4585:tid 140015198209792] Login successful for user "admin".
+[Sun Apr 02 07:42:18.387292 2017] [:error] [pid 4585:tid 140015198209792] Login successful for user "admin".
+[Sun Apr 02 18:39:01.578269 2017] [mpm_event:notice] [pid 1865:tid 140649947137920] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 02 18:39:01.753629 2017] [core:notice] [pid 1865:tid 140649947137920] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 02 18:42:20.559018 2017] [mpm_event:notice] [pid 1865:tid 140649947137920] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:00:10.012558 2017] [mpm_event:notice] [pid 1853:tid 139698203056000] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:00:10.252787 2017] [core:notice] [pid 1853:tid 139698203056000] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 07:31:38.785336 2017] [:error] [pid 1858:tid 139698017916672] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:31:53.341065 2017] [:error] [pid 1856:tid 139698017916672] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:32:07.530891 2017] [:error] [pid 1857:tid 139698017916672] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:32:25.532022 2017] [:error] [pid 1858:tid 139697942382336] Unable to establish connection to http://dbit-openstack.com:5000/v3/auth/tokens
+[Tue Apr 04 07:32:25.532942 2017] [:error] [pid 1858:tid 139697942382336] Login failed for user "admin".
+[Tue Apr 04 07:32:46.194968 2017] [:error] [pid 1857:tid 139697942382336] Unable to establish connection to http://dbit-openstack.com:5000/v3/auth/tokens
+[Tue Apr 04 07:32:46.195655 2017] [:error] [pid 1857:tid 139697942382336] Login failed for user "admin".
+[Tue Apr 04 07:34:36.396986 2017] [:error] [pid 1856:tid 139697942382336] Unable to establish connection to http://dbit-openstack.com:5000/v3/auth/tokens
+[Tue Apr 04 07:34:36.397904 2017] [:error] [pid 1856:tid 139697942382336] Login failed for user "admin".
+[Tue Apr 04 13:09:58.211329 2017] [mpm_event:notice] [pid 1853:tid 139698203056000] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:10:02.913655 2017] [mpm_event:notice] [pid 2395:tid 139787375552384] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:10:02.936662 2017] [core:notice] [pid 2395:tid 139787375552384] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 07:40:16.628341 2017] [:error] [pid 2398:tid 139787190413056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:40:30.500972 2017] [:error] [pid 2400:tid 139787190413056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:40:43.011029 2017] [:error] [pid 2399:tid 139787190413056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:41:56.507025 2017] [:error] [pid 2399:tid 139787190413056] Login successful for user "admin".
+[Tue Apr 04 13:15:10.578200 2017] [core:warn] [pid 2395:tid 139787375552384] AH00045: child process 2411 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:15:12.664724 2017] [core:warn] [pid 2395:tid 139787375552384] AH00045: child process 2411 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:15:14.667590 2017] [core:warn] [pid 2395:tid 139787375552384] AH00045: child process 2411 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:15:16.669418 2017] [core:error] [pid 2395:tid 139787375552384] AH00046: child process 2411 still did not exit, sending a SIGKILL
+[Tue Apr 04 13:15:17.673688 2017] [mpm_event:notice] [pid 2395:tid 139787375552384] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:15:22.570600 2017] [mpm_event:notice] [pid 2763:tid 140094621722496] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:15:22.632244 2017] [core:notice] [pid 2763:tid 140094621722496] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 13:15:27.885575 2017] [mpm_event:notice] [pid 2763:tid 140094621722496] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:15:29.434406 2017] [mpm_event:notice] [pid 2960:tid 140107300370304] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:15:29.434745 2017] [core:notice] [pid 2960:tid 140107300370304] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 07:48:37.203765 2017] [:error] [pid 2965:tid 140107115230976] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:50:00.756339 2017] [:error] [pid 2963:tid 140107115230976] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:51:03.670950 2017] [:error] [pid 2964:tid 140107106838272] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 07:53:40.237952 2017] [:error] [pid 2963:tid 140107048089344] Login successful for user "admin".
+[Tue Apr 04 07:54:55.583502 2017] [:error] [pid 2964:tid 140107039696640] Logging out user "admin".
+[Tue Apr 04 07:54:58.908275 2017] [:error] [pid 2964:tid 140107039696640] Deleted token gAAAAABY41EEs0ydvG6WR6FSvt0Ho5cvm0aaM8_mqRuLUPYHFD55V6y4Ry8PtENwnF5SFQf-nJQM4z1uYdvOKIPXLGTtOmMjFCd02kMeMqLDDeidBU-HAIzghwDwijGWL2wjePdO2Tyqp3BgGYckwRcyG0Wkda-lZ95__svXn_Ivhjsgin9WG16rAnqgauN4PQi9n0Xp3dvR
+[Tue Apr 04 07:55:31.548361 2017] [:error] [pid 2964:tid 140107106838272] Login successful for user "admin".
+[Tue Apr 04 13:32:06.444157 2017] [core:notice] [pid 2960:tid 140107300370304] AH00051: child pid 2973 exit signal Segmentation fault (11), possible coredump in /etc/apache2
+[Tue Apr 04 08:07:38.063629 2017] [:error] [pid 2965:tid 140107039696640] Logging out user "admin".
+[Tue Apr 04 08:07:40.382610 2017] [:error] [pid 2965:tid 140107039696640] Deleted token gAAAAABY41Fzrn0rrAfDT-oSGJ32oQB1uLR0HdtY_m7zk2FQGdr_Hgt2MWjb0hBzJPruAlMxOwKHvwO36wg_Q6mS3Ktnk63xue80bSyiavUAJyqbKmTS3KIG64RbKJR0AJ4FwT-UEjDB1xnmn9bsrB9vwkt2hZ7FgFCJ_0f6G_9YbMlSDTIOVNOiX603lTvqZ_IwXHVzJ7Df
+[Tue Apr 04 13:38:06.122090 2017] [core:warn] [pid 2960:tid 140107300370304] AH00045: child process 2976 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:38:06.122310 2017] [core:warn] [pid 2960:tid 140107300370304] AH00045: child process 2977 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:38:08.124435 2017] [core:warn] [pid 2960:tid 140107300370304] AH00045: child process 2976 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:38:08.125184 2017] [core:warn] [pid 2960:tid 140107300370304] AH00045: child process 2977 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:38:10.127657 2017] [core:warn] [pid 2960:tid 140107300370304] AH00045: child process 2976 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:38:10.127759 2017] [core:warn] [pid 2960:tid 140107300370304] AH00045: child process 2977 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:38:12.130470 2017] [mpm_event:notice] [pid 2960:tid 140107300370304] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:38:17.768186 2017] [mpm_event:notice] [pid 3553:tid 139899985794944] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:38:17.773030 2017] [core:notice] [pid 3553:tid 139899985794944] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 08:09:08.746526 2017] [:error] [pid 3558:tid 139899800655616] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 13:39:39.750665 2017] [core:error] [pid 3570:tid 139899783538432] [client 192.168.1.2:49407] End of script output before headers: django.wsgi
+[Tue Apr 04 13:39:39.911549 2017] [core:notice] [pid 3553:tid 139899985794944] AH00051: child pid 3554 exit signal Segmentation fault (11), possible coredump in /etc/apache2
+[Tue Apr 04 08:10:30.144787 2017] [:error] [pid 3557:tid 139899800655616] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:10:48.247729 2017] [:error] [pid 3730:tid 139899749967616] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 13:46:55.112739 2017] [mpm_event:notice] [pid 3553:tid 139899985794944] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:47:00.089366 2017] [mpm_event:notice] [pid 3918:tid 140336583976832] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:47:00.103477 2017] [core:notice] [pid 3918:tid 140336583976832] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 08:17:12.189441 2017] [:error] [pid 3920:tid 140336398837504] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:17:49.012063 2017] [:error] [pid 3923:tid 140336398837504] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:17:59.317048 2017] [:error] [pid 3922:tid 140336373659392] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:20:46.597778 2017] [:error] [pid 3922:tid 140336373659392] Logging out user "admin".
+[Tue Apr 04 08:21:01.056662 2017] [:error] [pid 3920:tid 140336323303168] Logging out user "admin".
+[Tue Apr 04 08:21:15.635484 2017] [:error] [pid 3920:tid 140336323303168] Could not delete token
+[Tue Apr 04 08:21:15.638345 2017] [:error] [pid 3922:tid 140336373659392] Could not delete token
+[Tue Apr 04 13:51:19.013794 2017] [core:warn] [pid 3918:tid 140336583976832] AH00045: child process 3935 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:51:21.015543 2017] [core:warn] [pid 3918:tid 140336583976832] AH00045: child process 3935 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:51:23.017860 2017] [core:warn] [pid 3918:tid 140336583976832] AH00045: child process 3935 still did not exit, sending a SIGTERM
+[Tue Apr 04 13:51:25.020093 2017] [core:error] [pid 3918:tid 140336583976832] AH00046: child process 3935 still did not exit, sending a SIGKILL
+[Tue Apr 04 13:51:26.022754 2017] [mpm_event:notice] [pid 3918:tid 140336583976832] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:51:32.256506 2017] [mpm_event:notice] [pid 4263:tid 139835789846400] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:51:32.392037 2017] [core:notice] [pid 4263:tid 139835789846400] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 13:51:35.287985 2017] [mpm_event:notice] [pid 4263:tid 139835789846400] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 13:51:37.024953 2017] [mpm_event:notice] [pid 4458:tid 140206142080896] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 13:51:37.025362 2017] [core:notice] [pid 4458:tid 140206142080896] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 08:22:32.070362 2017] [:error] [pid 4460:tid 140205956941568] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:23:30.002651 2017] [:error] [pid 4463:tid 140205948548864] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:23:41.498389 2017] [:error] [pid 4462:tid 140205923370752] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 14:28:25.759599 2017] [mpm_event:notice] [pid 4458:tid 140206142080896] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 14:28:30.734175 2017] [mpm_event:notice] [pid 5166:tid 140311599253376] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 14:28:30.734515 2017] [core:notice] [pid 5166:tid 140311599253376] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 08:58:51.590444 2017] [:error] [pid 5170:tid 140311414114048] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:59:02.903179 2017] [:error] [pid 5171:tid 140311414114048] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 08:59:16.008310 2017] [:error] [pid 5169:tid 140311380543232] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 14:30:32.831176 2017] [mpm_event:notice] [pid 5166:tid 140311599253376] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 14:30:37.700758 2017] [mpm_event:notice] [pid 5432:tid 140610833983360] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 14:30:37.701015 2017] [core:notice] [pid 5432:tid 140610833983360] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 09:01:04.986008 2017] [:error] [pid 5433:tid 140610648844032] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 09:01:22.432114 2017] [:error] [pid 5437:tid 140610648844032] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 09:01:22.911202 2017] [:error] [pid 5436:tid 140610648844032] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Tue Apr 04 14:37:07.382260 2017] [mpm_event:notice] [pid 5432:tid 140610833983360] AH00491: caught SIGTERM, shutting down
+[Tue Apr 04 14:37:12.159612 2017] [mpm_event:notice] [pid 5748:tid 140133928466304] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Tue Apr 04 14:37:12.160007 2017] [core:notice] [pid 5748:tid 140133928466304] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 04 15:38:07.547253 2017] [mpm_event:notice] [pid 5748:tid 140133928466304] AH00491: caught SIGTERM, shutting down
+[Thu Apr 06 00:51:35.319943 2017] [mpm_event:notice] [pid 1827:tid 140163441006464] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 00:51:35.442430 2017] [core:notice] [pid 1827:tid 140163441006464] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 00:53:37.857148 2017] [mpm_event:notice] [pid 1827:tid 140163441006464] AH00491: caught SIGTERM, shutting down
+[Thu Apr 06 00:53:39.769023 2017] [mpm_event:notice] [pid 2263:tid 139817941489536] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 00:53:39.769371 2017] [core:notice] [pid 2263:tid 139817941489536] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 05 19:24:15.600741 2017] [:error] [pid 2266:tid 139817756350208] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Wed Apr 05 19:24:33.067354 2017] [:error] [pid 2268:tid 139817756350208] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Wed Apr 05 19:24:54.982515 2017] [:error] [pid 2267:tid 139817756350208] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Wed Apr 05 19:34:44.185404 2017] [:error] [pid 2268:tid 139817756350208] Login successful for user "admin".
+[Wed Apr 05 19:40:55.255686 2017] [:error] [pid 2268:tid 139817680815872] Logging out user "admin".
+[Wed Apr 05 19:40:57.705268 2017] [:error] [pid 2268:tid 139817680815872] Deleted token gAAAAABY5UbUAJ72Auow-m3q9jjQTctAkqoCIOriyk1XrDyblTegaPgEfThdk8GZfyp2t_qAA52xbJ-eXrFTuSE751nfsbsrzm2-OGirRbnDsry5YyYka4EbfVLWrkX2FBaN3HkajEEEpLAMyD_RPKTswnmye_dNV_OTWn-bycS3RsE8SecCuTcj2Behdkw7TXD4MUmiXMdj
+[Thu Apr 06 14:46:14.035046 2017] [mpm_event:notice] [pid 1877:tid 139680440141696] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 14:46:14.194274 2017] [core:notice] [pid 1877:tid 139680440141696] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 16:27:40.956295 2017] [mpm_event:notice] [pid 1996:tid 140698334820224] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 16:27:41.182615 2017] [core:notice] [pid 1996:tid 140698334820224] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 16:38:47.631582 2017] [mpm_event:notice] [pid 1996:tid 140698334820224] AH00491: caught SIGTERM, shutting down
+[Thu Apr 06 16:41:01.897861 2017] [mpm_event:notice] [pid 1821:tid 139890184415104] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 16:41:02.081409 2017] [core:notice] [pid 1821:tid 139890184415104] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 16:46:12.893928 2017] [mpm_event:notice] [pid 1821:tid 139890184415104] AH00491: caught SIGTERM, shutting down
+[Thu Apr 06 16:48:10.619446 2017] [mpm_event:notice] [pid 1813:tid 139784014587776] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 16:48:10.893520 2017] [core:notice] [pid 1813:tid 139784014587776] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 16:52:02.416141 2017] [mpm_event:notice] [pid 1852:tid 139747962578816] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 16:52:02.685579 2017] [core:notice] [pid 1852:tid 139747962578816] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 19:19:18.265645 2017] [mpm_event:notice] [pid 1924:tid 140217632458624] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 19:19:18.332527 2017] [core:notice] [pid 1924:tid 140217632458624] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 20:58:46.089752 2017] [mpm_event:notice] [pid 1924:tid 140217632458624] AH00491: caught SIGTERM, shutting down
+[Thu Apr 06 21:00:25.440217 2017] [mpm_event:notice] [pid 1803:tid 139820479096704] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 21:00:25.676928 2017] [core:notice] [pid 1803:tid 139820479096704] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 06 21:01:57.997404 2017] [mpm_event:notice] [pid 1803:tid 139820479096704] AH00491: caught SIGTERM, shutting down
+[Thu Apr 06 21:31:38.650085 2017] [mpm_event:notice] [pid 1899:tid 140432764479360] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Thu Apr 06 21:31:38.689150 2017] [core:notice] [pid 1899:tid 140432764479360] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 07 10:50:44.250128 2017] [mpm_event:notice] [pid 1928:tid 140308184360832] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Apr 07 10:50:44.425158 2017] [core:notice] [pid 1928:tid 140308184360832] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 07 11:09:47.802909 2017] [mpm_event:notice] [pid 1916:tid 139758724827008] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Fri Apr 07 11:09:47.903402 2017] [core:notice] [pid 1916:tid 139758724827008] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 09:04:26.181537 2017] [mpm_event:notice] [pid 1983:tid 140210918737792] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Apr 08 09:04:26.416082 2017] [core:notice] [pid 1983:tid 140210918737792] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 09:10:33.102532 2017] [mpm_event:notice] [pid 1983:tid 140210918737792] AH00491: caught SIGTERM, shutting down
+[Sat Apr 08 09:10:38.824638 2017] [mpm_event:notice] [pid 2410:tid 140234867578752] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Apr 08 09:10:38.824883 2017] [core:notice] [pid 2410:tid 140234867578752] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 03:41:39.275752 2017] [:error] [pid 2415:tid 140234640475904] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:41:39.280990 2017] [:error] [pid 2413:tid 140234682439424] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:42:01.515571 2017] [:error] [pid 2414:tid 140234682439424] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 09:17:40.899741 2017] [mpm_event:notice] [pid 2410:tid 140234867578752] AH00491: caught SIGTERM, shutting down
+[Sat Apr 08 09:17:47.659762 2017] [mpm_event:notice] [pid 2733:tid 140138119104384] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Apr 08 09:17:47.660108 2017] [core:notice] [pid 2733:tid 140138119104384] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 03:48:05.800126 2017] [:error] [pid 2738:tid 140137933965056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:48:18.983390 2017] [:error] [pid 2736:tid 140137933965056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:48:32.004725 2017] [:error] [pid 2735:tid 140137933965056] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 09:22:42.230669 2017] [mpm_event:notice] [pid 2733:tid 140138119104384] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Apr 08 09:22:46.110074 2017] [mpm_event:notice] [pid 2733:tid 140138119104384] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Apr 08 09:22:46.110152 2017] [core:notice] [pid 2733:tid 140138119104384] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 09:22:47.329179 2017] [mpm_event:notice] [pid 2733:tid 140138119104384] AH00491: caught SIGTERM, shutting down
+[Sat Apr 08 09:22:50.659658 2017] [mpm_event:notice] [pid 3211:tid 140424673892224] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Apr 08 09:22:50.659933 2017] [core:notice] [pid 3211:tid 140424673892224] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 03:53:11.054469 2017] [:error] [pid 3214:tid 140424488752896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:53:25.021392 2017] [:error] [pid 3215:tid 140424488752896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:53:36.973484 2017] [:error] [pid 3216:tid 140424488752896] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 09:23:58.140251 2017] [mpm_event:notice] [pid 3211:tid 140424673892224] AH00491: caught SIGTERM, shutting down
+[Sat Apr 08 09:24:02.688810 2017] [mpm_event:notice] [pid 3448:tid 139873218549632] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sat Apr 08 09:24:02.689078 2017] [core:notice] [pid 3448:tid 139873218549632] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 08 03:54:23.236293 2017] [:error] [pid 3450:tid 139873033410304] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:54:25.826971 2017] [:error] [pid 3451:tid 139873033410304] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 03:54:43.987855 2017] [:error] [pid 3452:tid 139873033410304] Could not process panel theme_preview: Dashboard with slug "developer" is not registered.
+[Sat Apr 08 09:43:15.872914 2017] [mpm_event:notice] [pid 3448:tid 139873218549632] AH00491: caught SIGTERM, shutting down
+[Sun Apr 09 21:58:11.934139 2017] [mpm_event:notice] [pid 1919:tid 140294131509120] AH00489: Apache/2.4.7 (Ubuntu) mod_wsgi/3.4 Python/2.7.6 configured -- resuming normal operations
+[Sun Apr 09 21:58:11.979206 2017] [core:notice] [pid 1919:tid 140294131509120] AH00094: Command line: '/usr/sbin/apache2'
